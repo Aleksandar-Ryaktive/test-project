@@ -15,7 +15,7 @@ st.write(x, 'squared is', x * x)
 
 
 
-st.title(' ## Doublecheck')
+st.title('Doublecheck')
 
 st.text('Type a number in the box below')
 
