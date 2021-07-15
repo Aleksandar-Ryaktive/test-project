@@ -1,8 +1,3 @@
-[//:] # (Image reference)
-[image]: documentation/[R]_logo.jpg "Ryaktive Logo"
-
-
-
 # test-project
 ------------------------------
 
@@ -15,7 +10,6 @@ Some parts of the code in the test project are:
 st.write(x, 'squared is', x * x)`
 
 
-![image]
-
+![Ryaktive Logo!](/documents/test-project/documentation/[R]_logo.jpg "Ryaktive Logo")
 
 > Aleksandar Anastasov
