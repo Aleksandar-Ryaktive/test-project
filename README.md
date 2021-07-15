@@ -10,6 +10,6 @@ Some parts of the code in the test project are:
 st.write(x, 'squared is', x * x)`
 
 
-![Ryaktive Logo!]("documentation/logo.jpg "Ryaktive Logo")
+![Ryaktive](https://th.bing.com/th/id/OIP.vB9QNHefr6wcyoMDHqtsXwHaB0?pid=ImgDet&rs=1)
 
 > Aleksandar Anastasov
