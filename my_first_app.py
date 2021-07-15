@@ -13,7 +13,10 @@ st.write("""
 x = st.slider('Select a value')
 st.write(x, 'squared is', x * x)
 
+x = st.slider('Select a value')
+st.write(x, 'multiplied by 2 is', x * 2)
+
 st.write("""
-         Yours,
+         Cheers,
          Aleksandar
          """)
