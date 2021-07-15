@@ -7,7 +7,7 @@ st.write("""
          
          This is my very first app deployment made in Streamlit.
          
-         Here is something you can test to see how it works:
+         Here is something you can test how it works:
          """)
 
 x = st.slider('Select a value')
