@@ -4,4 +4,10 @@
 This is a test project repository.
 
 
->Aleksandar Anastasov
+Some parts of the code in the test project are:
+
+`x = st.slider('Select a value')
+st.write(x, 'squared is', x * x)`
+
+
+> Aleksandar Anastasov
