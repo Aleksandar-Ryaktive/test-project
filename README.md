@@ -17,4 +17,4 @@ st.write(x, 'squared is', x * x)`
 
 
 
-https://share.streamlit.io/aleksandar-ryaktive/test-project/main/my_first_app.py
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/aleksandar-ryaktive/test-project/main/my_first_app.py)
